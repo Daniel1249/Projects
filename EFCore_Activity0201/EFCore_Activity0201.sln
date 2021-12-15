@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32002.185
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore_Activity0201", "EFCore_Activity0201\EFCore_Activity0201.csproj", "{2514D97B-B2DB-4325-B4B4-CCA6D74C9575}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore_Activity0201", "EFCore_Activity0201\EFCore_Activity0201.csproj", "{2514D97B-B2DB-4325-B4B4-CCA6D74C9575}"
+>>>>>>> f4b30a993f342d684438ac5b4a95a779b6814157
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore_DBLibrary", "..\..\source\repos\EFCore_DBLibrary\EFCore_DBLibrary\EFCore_DBLibrary.csproj", "{F1C9D2D7-C731-4D46-9388-7B382FB4A494}"
 EndProject

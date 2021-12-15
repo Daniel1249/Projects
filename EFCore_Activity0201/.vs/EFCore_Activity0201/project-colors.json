@@ -5,7 +5,17 @@
       "ProjectGuid": "2514d97b-b2db-4325-b4b4-cca6d74c9575",
       "DisplayName": "EFCore_Activity0201",
       "ColorIndex": 0
+    },
+    "d53188e3-5644-4aa7-aca9-0679d730b5c1": {
+      "ProjectGuid": "d53188e3-5644-4aa7-aca9-0679d730b5c1",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "f1c9d2d7-c731-4d46-9388-7b382fb4a494": {
+      "ProjectGuid": "f1c9d2d7-c731-4d46-9388-7b382fb4a494",
+      "DisplayName": "EFCore_DBLibrary",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
