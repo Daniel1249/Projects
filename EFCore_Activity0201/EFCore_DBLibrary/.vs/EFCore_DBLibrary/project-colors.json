@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac8b1b74-d310-4a49-88f1-6e32053b4bd1": {
+      "ProjectGuid": "ac8b1b74-d310-4a49-88f1-6e32053b4bd1",
+      "DisplayName": "EFCore_DBLibrary",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
